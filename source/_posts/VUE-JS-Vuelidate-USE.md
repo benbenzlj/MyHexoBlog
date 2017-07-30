@@ -1,5 +1,5 @@
 ---
-title: VUE-JS-Vuelidate-USE
+title: VueJs验证组件Vuelidate 使用
 date: 2017-07-28 13:17:57
 tags: ['Vue.js','验证组件','Vuelidate']
 ---
@@ -13,7 +13,7 @@ tags: ['Vue.js','验证组件','Vuelidate']
 
 # 安装 #
 ```javascript
-npm install vuelidate --save
+npm install vuelidate --save
 ```
 # 在Vue中使用 #
 ```javascript
